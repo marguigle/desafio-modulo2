@@ -55,12 +55,14 @@ body {
   padding-bottom: 1.5rem;
 }*/
 #titulo-trabajos {
+  color: #04414d;
   text-align: center;
   margin: 2em;
 }
 
-.container-banner #mi-foto {
-  height: 100px;
+#mi-foto {
+  margin-left: 20px;
+  border-radius: 5px;
 }
 
 #banner-nombre {
